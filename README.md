@@ -5,16 +5,19 @@
 
 
 ## Table of content
-   [Description](#description) 
-   [Installation](#installation)
-   [Usage](#usage)  
-   [Tests](#tests)
-   [License](#license)
+  - [Description](#description) 
+  - [Installation](#installation)
+  - [Usage](#usage)  
+  - [Tests](#tests)
+  - [License](#license)
  
 
 ## Installation
-  > npm init -y
-  > npm i inquirer 
+
+  ```node
+    npm init -y
+    npm install inquirer
+  ```
 
 ## Technologies 
 - JavaScript
