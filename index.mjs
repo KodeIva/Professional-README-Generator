@@ -26,7 +26,7 @@ let {project_title,description,installation,usage ,license,contributors,tests, g
     {
      type: 'input',
      name:'installation',
-     message: 'What installations dod you need for your project?'
+     message: 'What installations did you need for your project?'
     },
     {
      type: 'input',
@@ -113,4 +113,4 @@ function generateLicense(license) {
 }
 
 // Generating the new README.md
-fs.writeFile('./generated/README.md', readmeText)
+fs.writeFile('generatedREADME.md', readmeText)
