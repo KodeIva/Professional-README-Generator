@@ -13,6 +13,10 @@
  
 
 ## Installation
+  ```node
+    import inquirer from 'inquirer'
+    import fs from 'fs/promises'
+  ```
 
   ```node
     npm init -y
@@ -25,10 +29,10 @@
 
 
 ## Usage
-  Answer the questions and press enter button
+  Answer all the questions and press enter button to save the information. After the last question  the new   README.md file will be dynamically generated.
 
 ## Tests  
   N/A
 
 ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
