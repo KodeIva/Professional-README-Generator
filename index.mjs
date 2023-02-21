@@ -113,4 +113,4 @@ function generateLicense(license) {
 }
 
 // Generating the new README.md
-fs.writeFile('generatedREADME.md', readmeText)
+fs.writeFile('./generated/README.md', readmeText)
