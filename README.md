@@ -1,8 +1,4 @@
 # Professional-README-Generator
-  
-## Description
-  This project is about command-line application that accepts user input and based on those inputs the new README.md generates after the last question. For the process are used Inquirer NPM Package and File System(FS). The new README.md file is generated into the 'generated' folder.
-
 
 ## Table of content
   - [Description](#description) 
@@ -10,7 +6,21 @@
   - [Usage](#usage)  
   - [Tests](#tests)
   - [License](#license)
+  
+  
+## Description
+  This project is about command-line application that accepts user input and based on those inputs the new README.md generates after the last question. For the process are used Inquirer NPM Package and File System(FS). The new README.md file is generated into the 'generated' folder.
+
+
+
+## Usage
+  Answer all the questions and press enter button to save the information. After the last question  the new   README.md file will be dynamically generated.
+
  
+![](./demo/ReadmeGenerator.mp4)
+
+
+
 
 ## Installation
   ```node
@@ -23,13 +33,10 @@
     npm install inquirer
   ```
 
+
 ## Technologies 
 - JavaScript
 - Node.js
-
-
-## Usage
-  Answer all the questions and press enter button to save the information. After the last question  the new   README.md file will be dynamically generated.
 
 ## Tests  
   N/A
