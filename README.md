@@ -16,7 +16,7 @@
 ## Usage
   Answer all the questions and press enter button to save the information. After the last question  the new   README.md file will be dynamically generated.
 
- #### To see how to use it [here](https://drive.google.com/file/d/1yal5AonAqWClrag70-oXcXG5iChRzKga/view)
+ ###### To see how to use it click [here](https://drive.google.com/file/d/1yal5AonAqWClrag70-oXcXG5iChRzKga/view)
 
 
 
